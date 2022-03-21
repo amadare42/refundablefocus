@@ -1,0 +1,9 @@
+{
+  "name": "RefundableFocus",
+  "description": "Allows characters to refund focus spent on movement",
+  "version_number": "0.1.0",
+  "website_url": "https://github.com/amadare42/refundablefocus",
+  "dependencies": [
+    "BepInEx-BepInExPack_ForTheKing-5.4.19"
+  ]
+}
