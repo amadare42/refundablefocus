@@ -1,6 +1,6 @@
 # Refundable Focus
 
-This mod allow you to refund Focus spent on movement. Other players aren't required to have it.
+This mod allow you to refund Focus spent on movement. Other players aren't required to have it installed.
 
 ### How to use
 
