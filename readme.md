@@ -8,7 +8,7 @@ Every Focus point spent on movement will marked as semi-transparent to show that
 
 **Demo**:
 
-![demo](https://raw.githubusercontent.com/amadare42/refundablefocus/blob/master/readme/demo.gif)
+![demo](https://raw.githubusercontent.com/amadare42/refundablefocus/master/readme/demo.gif)
 
 ## Installation
 
