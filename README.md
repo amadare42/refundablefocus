@@ -33,5 +33,15 @@ Every Focus point spent on movement will marked as semi-transparent to show that
 3. Run `dotnet restore`
 4. You should be able to build solution now
 
+## Version History
+
+### 0.1.3
+
+Initial working version.
+
+### 0.1.0-0.1.2
+
+Messing up correct uploads.
+
 ## License
 MIT

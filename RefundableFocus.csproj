@@ -4,7 +4,7 @@
     <TargetFramework>net35</TargetFramework>
     <AssemblyName>RefundableFocus</AssemblyName>
     <Description>Allows characters to refund focus spent on movement</Description>
-    <Version>0.1.0</Version>
+    <Version>0.1.3</Version>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <LangVersion>latest</LangVersion>
     <BuiltPluginDestPath></BuiltPluginDestPath>
